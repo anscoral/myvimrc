@@ -44,6 +44,7 @@ Bundle 'anscoral/nerdtree.vim'
 " vim-scripts repos
 " Bundle 'taglist.vim'
 Bundle 'cscope_macros.vim'
+Bundle 'bufexplorer.zip'
 
 " non-GitHub repos
 "Bundle 'git://git.wincent.com/command-t.git'
