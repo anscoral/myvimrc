@@ -45,6 +45,7 @@ Bundle 'anscoral/nerdtree.vim'
 " Bundle 'taglist.vim'
 Bundle 'cscope_macros.vim'
 Bundle 'bufexplorer.zip'
+Bundle 'Colour-Sampler-Pack'
 
 " non-GitHub repos
 "Bundle 'git://git.wincent.com/command-t.git'
@@ -63,3 +64,5 @@ filetype plugin indent on     " required!
 "
 " see :h vundle for more details or wiki for FAQ
 " NOTE: comments after Bundle commands are not allowed.
+
+colorscheme fruity
