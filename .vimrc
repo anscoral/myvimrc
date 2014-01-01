@@ -13,6 +13,8 @@ set expandtab
 set autoindent
 set cindent
 
+set cscopequickfix=s-,c-,d-,i-,t-,e-,g-
+
 let g:NERDTree_title="[NERDTree]"
 let g:winManagerWindowLayout="NERDTree|TagList"
 let g:winManagerWidth=50
@@ -41,6 +43,7 @@ Bundle 'anscoral/nerdtree.vim'
 
 " vim-scripts repos
 " Bundle 'taglist.vim'
+Bundle 'cscope_macros.vim'
 
 " non-GitHub repos
 "Bundle 'git://git.wincent.com/command-t.git'
