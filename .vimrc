@@ -41,6 +41,8 @@ Bundle 'anscoral/winmanager.vim'
 Bundle 'anscoral/taglist.vim'
 Bundle 'anscoral/nerdtree.vim'
 
+Bundle 'ervandew/supertab'
+
 " vim-scripts repos
 " Bundle 'taglist.vim'
 Bundle 'cscope_macros.vim'
