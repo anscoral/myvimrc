@@ -12,6 +12,10 @@ set shiftwidth=4
 set expandtab
 set autoindent
 set cindent
+set hlsearch
+set shellslash
+set grepprg=grep\ -nH\ $*
+let g:tex_flavor='latex'
 
 set cscopequickfix=s-,c-,d-,i-,t-,e-,g-
 
@@ -40,6 +44,7 @@ call vundle#rc()
 Bundle 'anscoral/winmanager.vim'
 Bundle 'anscoral/taglist.vim'
 Bundle 'anscoral/nerdtree.vim'
+Bundle 'anscoral/vim-latex'
 
 Bundle 'ervandew/supertab'
 
