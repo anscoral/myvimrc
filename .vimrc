@@ -54,6 +54,7 @@ Bundle 'cscope_macros.vim'
 Bundle 'bufexplorer.zip'
 Bundle 'Colour-Sampler-Pack'
 Bundle 'vcscommand.vim'
+Bundle 'DrawIt'
 
 " non-GitHub repos
 "Bundle 'git://git.wincent.com/command-t.git'

@@ -1,6 +1,6 @@
 ## About
 
-[myvimrc] is my ~/.vimrc and use vundle to manager vim plugin.
+`myvimrc` is my ~/.vimrc and use vundle to manager vim plugin.
 
 ## Quick start
 
