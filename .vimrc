@@ -48,6 +48,8 @@ Bundle 'anscoral/vim-latex'
 
 Bundle 'ervandew/supertab'
 
+Bundle 'aklt/plantuml-syntax'
+
 " vim-scripts repos
 " Bundle 'taglist.vim'
 Bundle 'cscope_macros.vim'
